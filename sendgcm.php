@@ -11,8 +11,8 @@
     // 푸시 내용, data 부분을 자유롭게 사용해 클라이언트에서 분기할 수 있음.
     $arr = array();
     $arr['data'] = array();
-    $arr['data']['title'] = '뻐큐뻐큐맨맨';
-    $arr['data']['message'] = 'To yeonhong Kim';
+    $arr['data']['title'] = 'Alarm test';
+    $arr['data']['message'] = 'Check this alarm';
     $arr['registration_ids'] = array();
     $arr['registration_ids'][0] = $regid;
 
